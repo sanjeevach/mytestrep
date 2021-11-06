@@ -6,5 +6,6 @@ int main(void)
   printf("Test changes 1 added\n");
   printf("Test changes 2 added\n");
   
+  printf("Test changes on master after branch\n");
   return 0;
 }
